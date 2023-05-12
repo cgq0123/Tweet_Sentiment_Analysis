@@ -7,3 +7,8 @@ and credit to cardiffnlp
 data is retrieved from Twitter API
 
 to use, retrive & analyse
+
+![@elonmusk1](Images/1.png)
+![@elonmusk2](Images/2.png)
+![@elonmusk3](Images/3.png)
+![@elonmusk4](Images/4.png)
