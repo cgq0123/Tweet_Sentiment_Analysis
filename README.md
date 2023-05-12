@@ -5,3 +5,5 @@ https://www.youtube.com/watch?v=0EekpQBEP_8&ab_channel=SuhemParack
 and credit to cardiffnlp
 
 data is retrieved from Twitter API
+
+to use, retrive & analyse
